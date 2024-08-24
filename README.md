@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Andressa Leal
 - 👀 I’m interested in Games, Technology.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Did you know that flamingos are naturally white? They turn pink because of their diet, which is rich in carotenoids found in algae and crustaceans. 🦩
 
